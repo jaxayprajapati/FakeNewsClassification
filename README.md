@@ -1,7 +1,7 @@
 
 
 # Fake News Classification with BERT 🕵️‍♂️🔍
-In an era inundated with misinformation, our Fake News Classification model serves as a beacon of truth. Leveraging the power of BERT (Bidirectional Encoder Representations from Transformers), we've crafted a solution capable of discerning fact from fiction with remarkable accuracy.
+In an era inundated with misinformation, our Fake News Classification model serves as a beacon of truth. Leveraging the power of BERT (Bidirectional Encoder Representations from Transformers), I've crafted a solution capable of discerning fact from fiction with remarkable accuracy.
 
 # Why This Solution Matters 🌐🛡️
 Misinformation spreads like wildfire, eroding trust and distorting reality. Our BERT-based model equips individuals and organizations with the means to combat falsehoods, fostering a more informed society.
